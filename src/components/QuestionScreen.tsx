@@ -1,4 +1,4 @@
-import { Question } from "../App";
+import type { Question } from "../App";
 import { GradientAurora } from "./GradientAurora";
 import { ProgressBar } from "./ProgressBar";
 import { NavigationButtons } from "./NavigationButtons";

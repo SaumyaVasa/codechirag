@@ -140,7 +140,7 @@ function Frame() {
   return (
     <div className="absolute box-border content-stretch flex gap-[10px] h-[78px] items-center justify-center left-[512px] px-[277px] py-[24px] rounded-[10px] top-[463px] w-[896px]">
       <div aria-hidden="true" className="absolute border border-[#96e5ff] border-solid inset-0 pointer-events-none rounded-[10px]" />
-      <ol className="[white-space-collapse:collapse] block font-['Inter:Semi_Bold',sans-serif] font-semibold leading-[0] list-decimal not-italic relative shrink-0 text-[#15313d] text-[22px] text-center text-nowrap tracking-[-0.3125px]" start="1">
+      <ol className="[white-space-collapse:collapse] block font-['Inter:Semi_Bold',sans-serif] font-semibold leading-[0] list-decimal not-italic relative shrink-0 text-[#15313d] text-[22px] text-center text-nowrap tracking-[-0.3125px]" start={1}>
         <li className="list-inside ms-[33px]">
           <span className="leading-[24px]">What sound does a cat make?</span>
         </li>

@@ -13,7 +13,6 @@ export function NavigationButtons({
   onNext,
   canGoPrevious,
   canGoNext,
-  isLastQuestion,
 }: NavigationButtonsProps) {
   return (
     <div className="flex gap-4 justify-center md:justify-end mt-8 md:mt-12 max-w-[896px] mx-auto">

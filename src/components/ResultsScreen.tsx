@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Question } from "../App";
+import type { Question } from "../App";
 import { ProgressBar } from "./ProgressBar";
 import imgCloud1 from "figma:asset/73a9458f5d9281d8159b188a09d18c41cc723cb7.png";
 
